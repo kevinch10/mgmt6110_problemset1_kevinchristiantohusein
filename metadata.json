@@ -1,0 +1,6 @@
+{
+  "name": "ScoutEdge",
+  "description": "Opponent scouting and tactical match preparation platform for football coaching staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
