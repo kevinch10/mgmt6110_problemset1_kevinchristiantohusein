@@ -32,15 +32,21 @@ a lot of performance statistics which was very detailed.
 
 ---
 
-## Prompt 2 - The performance statistics in the Match Overview screen is too complicated with 18 rows please cap it at maximum of 10.
+## Prompt 2 - Match Overview's performance statistics overcrowded
+```
+The performance statistics in the Match Overview screen is too complicated with 18 rows please cap it at maximum of 10.
 
+```
 **What came back:** The match analysis was limited to just 10.
 **What I changed next and why:** The second page "Weakness Analysis" was inconsistent the first rank had in-depth analysis while rank 2 and rank 3 did not have any in-depth analysis
 
 ---
 
-## Prompt 3 - For the Weakness Analysis page, the weakness rank 2 and 3 does not have an in-depth tactical analysis while rank 1 has it, please make it consistent throughout all three ranks
+## Prompt 3 - Weakness Analysis page
+```
+For the Weakness Analysis page, the weakness rank 2 and 3 does not have an in-depth tactical analysis while rank 1 has it, please make it consistent throughout all three ranks
 
+```
 **What came back:** The Weakness Analysis page is now consistent, rank 1, 2, and 3 all have in-depth analysis
 **What I changed next and why:** Changed nothing else.
 
