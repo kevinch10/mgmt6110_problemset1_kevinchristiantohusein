@@ -1,3 +1,4 @@
+Kevin Christianto Husein
 ## Q1
 
 I chose the sports industry and my external users are the coaching staff of a football club: the head coach, assistant coach, or performance analyst. Usually, several staff members sit around a laptop for a match-planning meeting a few days before a game.
