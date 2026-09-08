@@ -1,5 +1,5 @@
-# PROMPTS.md - [ScoutEdge]
-**Student:** [Kevin Christianto Husein] · **Course:** MGMT 6110 · **Problem Set 1**
+# PROMPTS.md - ScoutEdge
+**Student:** Kevin Christianto Husein · **Course:** MGMT 6110 · **Problem Set 1**
 **User sentence:** A football coach opens this screen to identify an upcoming opponent’s three biggest weaknesses, and knows it worked when those three weaknesses are clearly highlighted with supporting statistics.
 **Live link:** (https://mgmt6110problemset1kevin.vercel.app/)
 
@@ -13,7 +13,7 @@ GOAL: Build the front end of [ScoutEdge], a web product for [football coaches an
 [Weakness Analysis: shows the opponent’s three biggest weaknesses ranked by importance, with supporting fictional statistics and explanations; the user reviews the evidence behind each weakness; they see three clearly highlighted weaknesses with supporting statistics]
 [Match Preparation: shows the three weaknesses converted into preparation priorities, including a tactical focus and training focus for each; the user reviews what the team should prepare for; they see three clear and actionable preparation priorities]
 OUTPUT: A running app. Keep every invented value in ONE data file of its own, with
-at least [15] rows, so the screen looks real. One component per screen or section.
+at least 10 rows, so the screen looks real. One component per screen or section.
 Move between screens without reloading the page. Readable on a phone at arm's
 length. When you are done, list the files you created and what each one holds.
 GUARDRAILS: Screens and invented data only. Do NOT call the Gemini API or any
